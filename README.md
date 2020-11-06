@@ -4,7 +4,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't know what I'm doing
 
-![Playtime with the King of Monsters.jpeg](Playtime_with_the_King_of_Monsters.jpeg?raw=true "Playtime with the King of Monsters.jpeg")
+![Monster.jpeg](Monster.jpeg?raw=true "Monster.jpeg")
 
 
 <!--
