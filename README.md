@@ -4,7 +4,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't know what I'm doing
 
-![Monster.jpeg](Monster.jpeg?raw=true "Monster.jpeg" =250x250)
+![Monster.jpeg](Monster.jpeg?raw=true "Monster.jpeg" width="600" height="300")
 Artwork By: Rodrigo Becerra
 
 <!--
