@@ -5,10 +5,8 @@
 - ⚡ Fun fact: I don't know what I'm doing
 <p align="center">
   <img src="Monster.jpeg" data-canonical-src="Monster.jpeg" width="300" height="150"/>
-  
-  Artwork By: Rodrigo Becerra
 </p>
-
+<p align="center" Artwork By: Rodrigo Becerra /p>
 
 <!--
 **Thinkr3/Thinkr3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
