@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning Python and Java
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't know what I'm doing
-
-<img src="Monster.jpeg" data-canonical-src="Monster.jpeg" width="300" height="150"/>
+<p align="center">
+  <img src="Monster.jpeg" data-canonical-src="Monster.jpeg" width="300" height="150"/>
+</p>
 
 Artwork By: Rodrigo Becerra
 
