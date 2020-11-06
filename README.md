@@ -5,6 +5,7 @@
 - ⚡ Fun fact: I don't know what I'm doing
 <p align="center">
   <img src="Monster.jpeg" data-canonical-src="Monster.jpeg" width="300" height="150"/>
+  
   Artwork By: Rodrigo Becerra
 </p>
 
