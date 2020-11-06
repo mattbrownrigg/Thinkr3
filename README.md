@@ -4,8 +4,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't know what I'm doing
 
-![Monster.jpeg](Monster.jpeg?raw=true "Monster.jpeg")
-
+![Monster.jpeg](Monster.jpeg?raw=true "Monster.jpeg" =250x250)
+Artwork By: Rodrigo Becerra
 
 <!--
 **Thinkr3/Thinkr3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
