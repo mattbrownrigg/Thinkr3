@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and Java
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't know what I'm doing
-- 🏆 Achievements: Current WR holder of Piggy Chapter 12 6-Player% 
+- 🏆 Achievements: Ex WR holder of Piggy Chapter 12 6-Player% 
 
 <!--
 <p align="center">
