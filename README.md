@@ -4,9 +4,10 @@
   - Check it out here: https://thinkr3.github.io/
 - 🌱 I’m currently learning Tensorflow
 - ⭐ Favorite Languages: Java, Python, JavaScript, Jupyter, Bootstrap, Django, HTML, CSS
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinkr3&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 - ⚡ Fun fact: I don't know what I'm doing
 - :trollface: : Ex WR holder of Piggy Chapter 12 6-Player% 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinkr3&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!--
 <p align="center">
