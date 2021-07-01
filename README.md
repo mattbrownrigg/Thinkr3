@@ -1,6 +1,7 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
 - 🔭 I’m currently working on a Website
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Tensorflow
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't know what I'm doing
 - 🏆 Achievements: Ex WR holder of Piggy Chapter 12 6-Player% 
