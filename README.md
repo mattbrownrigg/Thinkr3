@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Thinkr3&color=blueviolet)
 - 🔭 I’m currently working on a Website
 - 🌱 I’m currently learning Tensorflow
 - 😄 Pronouns: He/Him
