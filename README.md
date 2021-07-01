@@ -1,10 +1,12 @@
-### Hi there 👋
+### 🎮 Hi there 👋
 ![](https://komarev.com/ghpvc/?username=Thinkr3&color=blueviolet)
 - 🔭 I’m currently working on a Website
+  - Check it out here: https://thinkr3.github.io/
 - 🌱 I’m currently learning Tensorflow
-- 😄 Pronouns: He/Him
+- ⭐ Favorite Languages: Java, Python, JavaScript, Jupyter, Bootstrap, Django, HTML, CSS
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinkr3&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 - ⚡ Fun fact: I don't know what I'm doing
-- 🏆 Achievements: Ex WR holder of Piggy Chapter 12 6-Player% 
+- :trollface: : Ex WR holder of Piggy Chapter 12 6-Player% 
 
 <!--
 <p align="center">
