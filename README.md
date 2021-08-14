@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I don't know what I'm doing
 - :trollface: : Ex WR holder of Piggy Chapter 12 6-Player% 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username==Thinkr3&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinkr3&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinkr3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
