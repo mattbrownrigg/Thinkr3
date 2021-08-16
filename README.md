@@ -1,4 +1,4 @@
-### 🎮 Hi there, I'm Matt! 👋
+# 🎮 Hi there, I'm Matt! 👋
 ![](https://komarev.com/ghpvc/?username=Thinkr3&color=blueviolet)
 - 🔭 I’m currently working on a Website
   - Check it out here: https://thinkr3.github.io/
@@ -7,6 +7,8 @@
 - ⚡ Fun fact: I don't know what I'm doing
 - 🏆 Awards: Winner at ThetaHacks and Spotify x SET.hacks() with @Carnales!
 - :trollface: : Ex WR holder of Piggy Chapter 12 6-Player% 
+
+## My Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinkr3&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinkr3&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
