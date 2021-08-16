@@ -1,7 +1,7 @@
 # 🎮 Hi there, I'm Matt! 👋
 ![](https://komarev.com/ghpvc/?username=Thinkr3&color=blueviolet)
 - 🔭 I’m currently working on a Website
-  - Check it out here: https://thinkr3.github.io/
+  - **Check it out here: https://thinkr3.github.io/**
 - 🌱 I’m currently learning Tensorflow and Keras
 - ⭐ Favorite Languages: Java, Python, JavaScript, HTML, CSS
 - ⚡ Fun fact: I don't know what I'm doing
