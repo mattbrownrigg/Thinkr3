@@ -8,6 +8,8 @@
 - 🏆 Awards: Winner at ThetaHacks and Spotify x SET.hacks() with @Carnales!
 - :trollface: : Ex WR holder of Piggy Chapter 12 6-Player% 
 
+I am a Full Stack Developer with an interest in Aritificial Intelligence. My programming experience comes from creating AI in Python, Tensorflow, Deep4J, and Tensorflow.js, creating Websites (like this one!) in HTML, Bootstrap, CSS, JS, JQuery, and creating Desktop Applications in Java, C#, and React. I am mainly applying my programming knowledge by participating in Hackathons to perfect my craft. I also have many other interests such as researching, gaming, and drawing.
+
 ## My Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinkr3&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinkr3&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
