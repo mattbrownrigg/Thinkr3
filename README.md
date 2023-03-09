@@ -1,10 +1,10 @@
-# 🧙 Salutations, I'm Matt! 👋
+# 🧙 Howdy, I'm Matt! 👋
 ![](https://komarev.com/ghpvc/?username=Thinkr3&color=blueviolet)
-- 🔭 I’m currently working on a Website
+- 🏗️ I’m currently working on a Website
   - **Check it out here: https://thinkr3.github.io/**
-- ⭐ Favorite Languages: Python, Java, JavaScript, HTML, CSS
-- ⚡ Fun fact: I'm just a silly little guy doing silly little things
-- 🏆 Awards: Winner at ThetaHacks and Spotify x SET.hacks() with @Carnales!
+- 💯 Awards: Winner at ThetaHacks and Spotify x SET.hacks() with @Carnales! 
+- 💻 Favorite Languages: Python, Java, JavaScript, HTML, CSS
+- 🧃 Fun fact: I'm just a silly little guy doing silly little things :3
 - :trollface: : Previous WR holder of Piggy Chapter 12 6-Player% 
 
 I am a Full Stack Developer with an interest in Aritificial Intelligence. My programming experience comes from creating AI in Python and Tensorflow, creating Websites ([like this one!](https://thinkr3.github.io/)) in HTML, Bootstrap, CSS, JS, JQuery, and creating Desktop Applications in Java, C#, and React. I am mainly applying my programming knowledge by participating in Hackathons. I also have many other interests such as research, gaming, and art.
