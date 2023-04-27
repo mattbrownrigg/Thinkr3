@@ -1,6 +1,6 @@
 # 🧙 Howdy, I'm Matt! ヾ(≧▽≦*)o
 ![](https://komarev.com/ghpvc/?username=Thinkr3&color=blueviolet)
-- 🏗️ I’m currently working on a Website
+- 🏗️ I’m currently working on a Website (He has contracted [divitis](https://www.apaddedcell.com/div-itis-what-it-and-how-avoid-it/) and is out of commission for now 🙁) 
   - **Check it out here: https://thinkr3.github.io/**
 - 💯 Awards: Winner at ThetaHacks and Spotify x SET.hacks() with [@Carnales](https://github.com/Carnales)! 
 - 💻 Favorite Languages: Python, Java, JavaScript, HTML, CSS
