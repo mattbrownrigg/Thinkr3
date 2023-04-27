@@ -1,4 +1,4 @@
-# 🧙 Howdy, I'm Matt! 👋
+# 🧙 Howdy, I'm Matt! ╰(*°▽°*)╯
 ![](https://komarev.com/ghpvc/?username=Thinkr3&color=blueviolet)
 - 🏗️ I’m currently working on a Website
   - **Check it out here: https://thinkr3.github.io/**
