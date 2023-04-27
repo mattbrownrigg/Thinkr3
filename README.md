@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=Thinkr3&color=blueviolet)
 - 🏗️ I’m currently working on a Website
   - **Check it out here: https://thinkr3.github.io/**
-- 💯 Awards: Winner at ThetaHacks and Spotify x SET.hacks() with @Carnales! 
+- 💯 Awards: Winner at ThetaHacks and Spotify x SET.hacks() with [@Carnales](https://github.com/Carnales)! 
 - 💻 Favorite Languages: Python, Java, JavaScript, HTML, CSS
 - 🧃 Fun fact: I'm just a silly little guy doing silly little things :3
 - :trollface: : Previous WR holder of Piggy Chapter 12 6-Player% 
