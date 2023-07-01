@@ -11,7 +11,7 @@ I am a Full Stack Developer with an interest in Aritificial Intelligence. My pro
 
 ## My Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinkr3&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinkr3&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinkr3&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
