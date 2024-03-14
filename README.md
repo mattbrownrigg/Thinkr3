@@ -3,11 +3,11 @@
 - 🏗️ I’m currently working on a Website (He has contracted [divitis](https://www.apaddedcell.com/div-itis-what-it-and-how-avoid-it/) and is out of commission for now 🙁) 
   - **Check it out here: https://thinkr3.github.io/**
 - 💯 Awards: Winner at ThetaHacks and Spotify x SET.hacks() with [@Carnales](https://github.com/Carnales)! 
-- 💻 Favorite Languages: Python, C++, C, Java, ASM
+- 💻 Favorite Languages: Python, C++, C, C#, Java, ASM
 - 🧃 Fun fact: I'm just a silly little guy doing silly little things :3
 - :trollface: : Previous WR holder of Piggy Chapter 12 6-Player% 
 
-I am a Software Engineer with an interest in Aritificial Intelligence 🎲. My programming experience comes from creating AI in Python and Tensorflow, creating Websites ([like this one!](https://thinkr3.github.io/)) in HTML, Bootstrap, CSS, JS, JQuery, and creating Desktop Applications in Java and C#. I am mainly applying my programming knowledge by participating in Hackathons. I also have many other interests such as research 🧪, gaming 🎮, and art 🎨.
+I am a Software Engineer with an interest in Aritificial Intelligence 🎲. My programming experience comes from creating models in Pytorch and Tensorflow, creating Websites ([like this one!](https://thinkr3.github.io/)) with Bootstrap and JQuery, and creating Desktop GUI in Java and C#. I am mainly applying my programming knowledge by participating in Hackathons. I also have many other interests such as research 🧪, gaming 🎮, and art 🎨.
 
 ## My Stats
 
