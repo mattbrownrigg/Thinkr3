@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=Thinkr3&color=blueviolet)
 - 🏗️ I’m currently working on taggy! 
 - 💯 Awards: Winner at ThetaHacks and Spotify x SET.hacks() with [@Carnales](https://github.com/Carnales)! 
-- 💻 Favorite Languages: Python, C++, C, C#, Java, ASM
+- 💻 Favorite Languages: Python, C++, C, C#, Java, x86 ASM
 - 🧃 Fun fact: I'm just a silly little guy doing silly little things :3
 
 I am a Software Engineer with an interest in Aritificial Intelligence 🎲. My programming experience comes from training models in Pytorch and Tensorflow and creating backend systems in C++. I am mainly applying my programming knowledge by participating in Hackathons. I also have many other interests such as research 🧪, gaming 🎮, and art 🎨.
