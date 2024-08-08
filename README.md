@@ -7,11 +7,6 @@
 
 I am a Software Engineer with an interest in Aritificial Intelligence 🎲. My programming experience comes from training models in Pytorch and Tensorflow and creating backend systems in C++. I am mainly applying my programming knowledge by participating in Hackathons. I also have many other interests such as research 🧪, gaming 🎮, and art 🎨.
 
-## My Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattbrownrigg&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <!--
 <p align="center">
